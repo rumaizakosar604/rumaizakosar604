@@ -26,7 +26,11 @@ I'm passionate about Artificial Intelligence and enjoy building intelligent syst
 - FAISS
 - Git
 
-## 📫 Contact
+## 🌍 Connect with Me
 
-- Email: rumaizakosar@gmail.com
-- LinkedIn: www.linkedin.com/in/rumaiza-kosar-7341141b5
+[![LinkedIn](https://www.linkedin.com/in/rumaiza-kosar-7341141b5)
+
+[![GitHub](https://github.com/rumaizakosar604)
+
+
+ 
