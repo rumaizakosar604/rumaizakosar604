@@ -61,8 +61,9 @@ My research focuses on developing privacy-aware RAG frameworks that enhance info
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ## 🌍 Connect with Me
+<h1 align="center">
 
-<h1 align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumaiza-kosar-7341141b5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumaiza-kosar-7341141b5)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rumaizakosar604)
 
