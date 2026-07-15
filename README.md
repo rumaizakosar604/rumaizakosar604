@@ -28,7 +28,7 @@ I'm passionate about Artificial Intelligence and enjoy building intelligent syst
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/rumaiza-kosar-7341141b5)
+[![LinkedIn](https://linkedin.com/in/rumaiza-kosar-7341141b5)
 
 [![GitHub](https://github.com/rumaizakosar604)
 
